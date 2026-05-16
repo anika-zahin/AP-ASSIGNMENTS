@@ -6,5 +6,5 @@
 
 # Assignment 14 output :
 
-<img width="1043" height="964" alt="Screenshot 2026-05-14 230602" src="https://github.com/user-attachments/assets/c3519d3b-d548-4d37-856c-5e65609c918f" />
-<img width="1089" height="900" alt="Screenshot 2026-05-14 230619" src="https://github.com/user-attachments/assets/cf25c57c-51f5-4306-af23-1c04b9335505" />
+<img width="802" height="391" alt="Screenshot 2026-05-16 175737" src="https://github.com/user-attachments/assets/66e165f4-3e9f-4107-9fa6-f046a3e35e30" />
+
