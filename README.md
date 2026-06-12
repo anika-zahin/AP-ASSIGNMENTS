@@ -1,6 +1,7 @@
 Q19. Simple Digital Counter & Theme Toggle App 
 
 Video - [https://youtube.com/shorts/voqQWop9hCQ?si=L_WQ9BmMkIy2saLa](https://youtube.com/shorts/voqQWop9hCQ?si=L_WQ9BmMkIy2saLa)
+
 Build a single-screen mobile application using React Native. The app functions as a digital counter that allows users to increment, decrement, and reset a number displayed on the screen. To make the app more interactive, it must also include a "Theme Toggle" button that switches the screen's background and text colors between a Light Mode and a Dark Mode.
 
 This assignment focuses on your ability to set up a basic React Native environment, layout components cleanly using Flexbox, and manage UI changes dynamically using React's state management.
